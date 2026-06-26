@@ -1,11 +1,10 @@
 {
-  "name": "com.kitsuneba.autoscenebackup",
-  "displayName": "KitsuneBa's Auto Scene Backup",
-  "version": "2025.10.12",
-  "description": "Automatically archives scenes, naming them by project name, scene name, date, and time. Tools→🦊KitsuneBa's Tools🦊→🦊Auto Scene Backup🦊",
-  "unity": "2019.4",
-  "author": {
-    "name": "KitsuneBa"
-  },
-  "type": "tool"
+  "author": "KitsuneBa",
+  "name": "KitsuneBa",
+  "id": "com.kitsuneba.vpm",
+  "url": "https://kitsuneba.github.io/KitsuneBaTools/index.json",
+  "githubRepos": [
+    "KitsuneBa/AutoSceneBackup",
+    "KitsuneBa/ImportHighlighter"
+  ]
 }
